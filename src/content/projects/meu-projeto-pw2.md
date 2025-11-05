@@ -1,6 +1,6 @@
 ---
 name: GDE - Gerenciamento de Defesa de Estágios
-description: Sistema para gerenciar as defesas de estágios da UAI do IFPB.
+description: GDE - Sistema para gerenciar as defesas de estágios da UAI do IFPB.
 addresses:
   preview: https://raw.githubusercontent.com/ifpb/ifpb.github.io/main/preview.png
   homepage: https://ifpb.github.io/
